@@ -1,4 +1,12 @@
 {
+  "name": "liqpay-ts",
+  "homepage": "https://github.com/arodiono/liqpay-ts",
+  "version": "1.0.0",
+  "description": "ts definitions to liqpay-sqk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arodiono/liqpay-ts"
+  },
   "dependencies": {
     "@types/node": "^12.0.2",
     "sdk-nodejs": "git+https://github.com/liqpay/sdk-nodejs"
